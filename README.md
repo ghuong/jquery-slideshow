@@ -1,4 +1,4 @@
-#JQuery Slideshow
+# JQuery Slideshow
 
 Live at [jquery-slideshow-gary.netlify.app](https://jquery-slideshow-gary.netlify.app/).
 
